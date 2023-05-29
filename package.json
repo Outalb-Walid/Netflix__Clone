@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.2.2",
     "axios": "^0.21.1",
     "eslint": "^7.13.0",
+    "eslint-config-react-app": "^7.0.1",
     "firebase": "^8.0.2",
     "fuse.js": "^6.4.3",
     "movie-trailer": "^3.0.0",
